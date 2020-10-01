@@ -41,7 +41,7 @@ For this analysis I will be using two datasets, and the datasets are from the Ka
 4. Removed the rows with null values for description.
 
 ## Data Exploration and Visualization
-![Image](https://github.com/rafationgson/Project-6/blob/master/yt-channels.png)
+![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-channels.png)
 
 ## Summary and Conclusion of findings
 * The top channels with the most number of trending videos include ESPN, The Tonight Show Starring Jimmy Fallon and Netflix. This is also reflected in the most popular video category which are entertainment. In terms of the video categories, the dataset is imbalanced because majority of the videos are in either Entertainment or Music.
