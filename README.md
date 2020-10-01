@@ -41,8 +41,9 @@ For this analysis I will be using two datasets, and the datasets are from the Ka
 4. Removed the rows with null values for description.
 
 ## Data Exploration and Visualization
-![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-channels.png)
+![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-channels.png =24x48)
 ![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-cat.png)
+#### Correlation of likes with views, dislikes and comment count
 ![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-scatter.png)
 #### Music Category Topics
 ![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-music.png)
