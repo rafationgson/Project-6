@@ -43,7 +43,8 @@ For this analysis I will be using two datasets, and the datasets are from the Ka
 ## Data Exploration and Visualization
 ![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-channels.png)
 ![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-cat.png)
-![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-corr.png)
+![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-scatter.png)
+#### Music Category Topics
 ![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-music.png)
 ![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-cat-likes.png)
 
