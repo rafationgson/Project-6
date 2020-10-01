@@ -41,13 +41,13 @@ For this analysis I will be using two datasets, and the datasets are from the Ka
 4. Removed the rows with null values for description.
 
 ## Data Exploration and Visualization
-<img src="https://github.com/rafationgson/Project-6/blob/master/data.py/yt-channels.png">
-![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-cat.png)
+<img src="https://github.com/rafationgson/Project-6/blob/master/data.py/yt-channels.png" height="24" width="48">
+<img src="https://github.com/rafationgson/Project-6/blob/master/data.py/yt-cat.png">
 #### Correlation of likes with views, dislikes and comment count
-![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-scatter.png)
+<img src="https://github.com/rafationgson/Project-6/blob/master/data.py/yt-scatter.png">
 #### Music Category Topics
-![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-music.png)
-![Image](https://github.com/rafationgson/Project-6/blob/master/data.py/yt-cat-likes.png)
+<img src="https://github.com/rafationgson/Project-6/blob/master/data.py/yt-music.png">
+<img src="https://github.com/rafationgson/Project-6/blob/master/data.py/yt-cat-likes.png">
 
 ## Summary and Conclusion of findings
 * The top channels with the most number of trending videos include ESPN, The Tonight Show Starring Jimmy Fallon and Netflix. This is also reflected in the most popular video category which are entertainment. In terms of the video categories, the dataset is imbalanced because majority of the videos are in either Entertainment or Music.
